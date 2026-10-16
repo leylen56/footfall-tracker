@@ -1,0 +1,17 @@
+# Analyst waypoints for the staff member in
+#   "WhatsApp Video 2026-09-09 at 8.31.13 AM.mp4"  (960x720, 25 fps, 1341 frames)
+#
+# Format:  frame : x,y,w,h        (x,y = top-left of the box, pixels)
+# Verified against the clip + the reviewer's on-screen marks.
+# The staff wears a LIGHT-BLUE long-sleeve shirt for the first ~26 s, then puts
+# on a BLACK HOODIE and is dark for the rest.  They are in frame the whole clip.
+
+0    : 72,372,66,90      # left-wall desk, light-blue shirt  (start of clip)
+275  : 72,375,72,100     # left-wall desk                    (reviewer's 0:11 mark)
+345  : 195,365,95,110    # stood up, walking right past the metal sculpture
+390  : 485,95,80,150     # walking up the central corridor
+470  : 463,50,82,140     # top / top-right desks
+600  : 378,540,95,120    # bent over the bottom-centre desk, still light shirt
+900  : 385,510,92,120    # bottom-centre desk, now in the black hoodie
+1300 : 60,355,74,96      # walked back to the left-wall desk, black hoodie
+1340 : 58,352,74,96      # left-wall desk, black hoodie      (end of clip)

@@ -1,0 +1,7 @@
+# Primary pipeline (motion + appearance tracker) - this is all you need
+numpy>=1.24
+opencv-python>=4.8
+matplotlib>=3.7
+
+# Optional: only for `--backend yolo` (person-detector comparison)
+# ultralytics>=8.3
